@@ -1,13 +1,7 @@
-# FINAL PROJECT DOCUMENTATION
+# NGO Management System
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-TEAM MEMBERS
 
-Sneha Giranje: NUID 002785370 giranje.s@northeastern.edu
-
-Arundhati Pathrikar: NUID 002780632 pathrikar.ar@northeastern.edu
-
-Sejal Mutha: NUID 002653754 mutha.s@northeastern.edu
 
 
 
@@ -24,7 +18,7 @@ Sejal Mutha: NUID 002653754 mutha.s@northeastern.edu
 - We aspire to minimize the end-to-end lifecycle of recipient received donated items which includes multiple operations.
 
 
-![](./Mainframe.png)
+
 
 ## STRUCTURE
 
@@ -41,26 +35,20 @@ Sejal Mutha: NUID 002653754 mutha.s@northeastern.edu
 | ------ | ------ |
 | Reporting |  Analyst |
 
-- Enterprise 2: Supply Chain
+- Enterprise 3: Supply Chain
 
 | Organisation | Role |
 | ------ | ------ |
 | Logistics |  Delivery Agent |
 
-- Enterprise 2: Donation Centre
+- Enterprise 4: Donation Centre
 
 | Organisation | Role |
 | ------ | ------ |
 | Donation Centre Administration |  Donar Admin, Donar|
 | Inventory Department  | Inventory Manager |
 
-## SEQUENCE DIAGRAM
 
-![](./sequence_diagram.png)
-
-## UML DIAGRAM
-
-![](./ClassDiagramNGO.gif)
 
 ## Installation Requirement
 
